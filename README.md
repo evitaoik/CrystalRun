@@ -30,7 +30,6 @@ The experience is enhanced with sound effects and background music, providing im
 - Power-up appearance and collection  
 - Victory and defeat  
 
-These audio cues reinforce player actions and improve immersion.
 
 ---
 
@@ -40,7 +39,6 @@ The game difficulty increases gradually by:
 - Increasing the forward movement speed  
 - Increasing the frequency of obstacle spawning  
 
-This creates a steady and escalating challenge throughout the gameplay session.
 
 ---
 
@@ -49,9 +47,9 @@ This creates a steady and escalating challenge throughout the gameplay session.
 - Forward movement is automatic  
 - The player controls lateral movement (left–right)  
 
-The primary objective is to survive until the time limit expires while maintaining at least one remaining life.
 
 ---
+
 
 ## Coins and Power-Ups
 
@@ -64,27 +62,24 @@ The combination of time pressure, increasing speed, and resource management crea
 
 ## Screenshots
 
-![Cover](images/cover.png)
-*Figure 1: Crystal Run – Game Cover*
+<img src="images/cover.png" width="300" />
+<br><em>Figure 1: Crystal Run – Game Cover</em><br><br>
 
-![Gameplay](images/gameplay.png)
-*Figure 2: In-game scene*
+<img src="images/gameplay.png" width="400" />
+<br><em>Figure 2: In-game scene</em><br><br>
 
-![Power-up](images/powerup.png)
-*Figure 3: Gameplay with active power-up*
+<img src="images/powerup.png" width="400" />
+<br><em>Figure 3: Gameplay with active power-up</em><br><br>
 
-![Win Screen](images/win.png)
-*Figure 4: Win Screen*
+<img src="images/win.png" width="400" />
+<br><em>Figure 4: Win Screen</em><br><br>
 
-![Lose Screen](images/lose.png)
-*Figure 5: Lose Screen*
 
----
+<img src="images/lose.png" width="400" />
+<br><em>Figure 5: Lose Screen</em><br><br>
 
-## Project Resources
 
-Playable version and additional materials:  
-https://drive.google.com/drive/folders/1tVUwT7EOjvyPc1qzMD6Lt0hV5IfF4n_g
+
 
 ---
 
